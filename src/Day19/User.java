@@ -2,11 +2,11 @@ package Day19;
 
 public class User {
     private String username;
-    private int pwd;
+    private String pwd;
 
-    public User(String username,int pwd) {
-        this.username=username;
-        this.pwd=pwd;
+    public User(String username,String pwd) {
+        this.setUsername(username);
+        this.setPwd(pwd);
     }
 
     public String getUsername() {
@@ -17,15 +17,15 @@ public class User {
         this.username = username;
     }
 
-    public int getPwd() {
+    public String getPwd() {
         return pwd;
     }
 
-    public void setPwd(int pwd) {
+    public void setPwd(String pwd) {
         this.pwd = pwd;
     }
-    public void printmassage(){
-        System.out.println("用户名："+username);
-        System.out.println("密码："+pwd);
+    public String info(){
+       String str="用户名："+this.username+"\n"+"密码："+this.pwd;
+       return str;
     }
 }
