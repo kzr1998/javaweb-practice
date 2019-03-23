@@ -1,4 +1,6 @@
-package Day22;
+package Day23.pack316;
+
+import Day23.pack316.Animal;
 
 public class Sheep extends Animal {
     public void cry(){

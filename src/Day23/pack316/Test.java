@@ -1,4 +1,9 @@
-package Day22;
+package Day23.pack316;
+import Day23.pack316.Animal;
+import Day23.pack316.Cat;
+import Day23.pack316.Dog;
+import Day23.pack316.Sheep;
+
 import java.util.Random;
 
 public class Test {

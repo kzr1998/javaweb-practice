@@ -1,4 +1,4 @@
-package Day22;
+package Day23.pack316;
 
 public class Animal {
     private String kind;
