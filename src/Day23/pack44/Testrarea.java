@@ -1,4 +1,8 @@
-package Day23;
+package Day23.pack44;
+
+import Day23.pack44.Circle;
+import Day23.pack44.Rectangle;
+import Day23.pack44.Shape;
 
 public class Testrarea {
     public static void main(String[] args) {

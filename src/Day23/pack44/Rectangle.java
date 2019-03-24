@@ -1,4 +1,4 @@
-package Day23;
+package Day23.pack44;
 
 public class Rectangle extends Shape {
     private double lenght;
