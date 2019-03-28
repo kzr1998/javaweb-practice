@@ -15,10 +15,12 @@ public class EmployeeTest {
       list.add(ee1);
       list.add(ee2);
         //显示员工的姓名和薪资
+        System.out.print("员工姓名");
+        System.out.print("      ");
+        System.out.print("员工工资");
+        System.out.println();
         for(int i=0;i<list.size();i++){
-            System.out.print("员工姓名");
-            System.out.println(((Employee)(list.get(i))).getName());
-            System.out.print("员工工资");
+            System.out.print(((Employee)(list.get(i))).getName()+"\t\t\t");
             System.out.println(((Employee)(list.get(i))).getSalary());
         }
     }
