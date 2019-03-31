@@ -25,7 +25,7 @@ public class EmployeeTest44 {
         //排序
         Collections.sort(employee44List);
         //输出排序后的数据
-        System.out.println("排序后：");
+        System.out.println("升序排序后：");
         for (Employee44 employee44:employee44List){
             System.out.println(employee44);
         }

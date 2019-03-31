@@ -51,7 +51,7 @@ public class Employee44 implements Comparable<Employee44>{
     public int compareTo(Employee44 e) {
         double salary=this.getSalary();
         double salary1=e.getSalary();
-       int n=new Double(salary1-salary).intValue();
-        return 0;
+       int n=new Double(salary-salary1).intValue();
+        return n;
     }
 }
