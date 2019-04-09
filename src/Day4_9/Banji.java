@@ -1,6 +1,7 @@
 package Day4_9;
 
 import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.List;
 import java.util.Scanner;
 
@@ -54,6 +55,7 @@ public class Banji {
         for (Student student1:stuList){
             if(student1.getStuNum().equals(stuNum)){
                 //如果相等就找到了
+                System.out.println("找到了");
                 student=student1;break;
             }
         }
@@ -61,33 +63,50 @@ public class Banji {
     }
     //输入班级学生的语文成绩
     public void insertChineseScore(String stuNum,float score){
-        Scanner sc=new Scanner(System.in);
-        Student student1=searchStudentByNum(stuNum);
-        score=student1.getChinese();
-        if(student1==null){
-            System.out.println("没有找到stuNum为"+stuNum+"对应的学号");
-        }else {
-           stuList.remove(student1);
-           stuList.add(student1);
-           System.out.println("添加成功！");
+        Iterator it=stuList.iterator();
+        while (it.hasNext()){
+            Student stu=(Student)it.next();
+            if(stuNum.equals(stu.getStuNum())){
+                stu.setChinese(score);
+            }
         }
     }
     // 输入班级学生的数学成绩
-    public void insertMathScore(String stuNum,float score){}
+    public void insertMathScore(String stuNum,float score){
+        Iterator it=stuList.iterator();
+        while (it.hasNext()){
+            Student stu=(Student)it.next();
+            if(stuNum.equals(stu.getStuNum())){
+                stu.setMath(score);
+            }
+        }
+    }
+
     // 删除学生信息：
     public void deleteStudent(String stuNum){
-        Student student=searchStudentByNum(stuNum);
-        if(student!=null){
-            stuList.remove(student);
-        }else {
-            System.out.println("没有找到对应stuNum为"+stuNum+"对应的信息");
+        Iterator it = stuList.iterator();
+        while (it.hasNext()) {
+            Student stu = (Student)it.next();
+            if (stuNum.equals(stu.getStuNum())) {
+                it.remove();
+            }
         }
     }
 //显示所有学生的信息
     public void displayAllStudent(){
         System.out.println("学生所有信息为：");
-        for (Student student:stuList){
-            System.out.println(student);
+        Iterator it = stuList.iterator();
+        while (it.hasNext()) {
+            Student stu = (Student)it.next();
+            System.out.println(stu);
         }
+    }
+
+    @Override
+    public String toString() {
+        return "班级{" +
+                "班级编号='" + classId + '\'' +
+                ", 班级名称='" + className + '\'' +
+                '}';
     }
 }
