@@ -235,7 +235,6 @@ public class TestStudent {
                                     System.out.println("该数字没有对应的操作！");
                                     break;
                     }
-                    break;
                         case 2:
                             while (true){
                                 Tt.schoolMenu();
@@ -274,6 +273,7 @@ public class TestStudent {
                                              System.out.println("该班级已存在！");
                                              System.out.println("该班级名称为"+className2);
                                              sl.displayBanJiName();
+
                                          }
                                          break;
                                         case 4:
