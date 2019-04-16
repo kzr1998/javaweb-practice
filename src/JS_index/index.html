@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Math.random()</title>
+</head>
+<body>
+<script>
+    var arr=[];
+    function getRandom(n,m){
+        var choices=m-n+1;
+        var random=Math.floor(Math.random()*choices)+n;
+        return random;
+    }
+    
+    function compare(num1,num2){
+        return num2>num1;
+
+    }
+    for (var i=0;i<10;i++){
+        arr.push(getRandom(0,100));
+
+    }
+    document.write(arr.sort(compare)+"<br/>");
+    var max=Math.max.apply(Math,arr);//这里其实用var max=arr[0];也可以的
+    var min=Math.min.apply(Math,arr);//var max=arr[9]
+    document.write("这组数中的最大值是："+max+",最小值是："+min);
+
+</script>
+</body>
+</html>
