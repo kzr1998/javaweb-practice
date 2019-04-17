@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript" src="index.js"></script>
+    <style>
+        img{
+            width: 30px;
+            height: 30px;
+        }
+    </style>
+</head>
+<body onload="show()">
+   <table align="center">
+   <tr>
+       <td align="right">请输入用户名：</td>
+       <td><input type="text"name="" /></td>
+   </tr>
+       <tr>
+           <td align="right">请输入密码：</td>
+           <td><input type="text"name="" /></td>
+       </tr>
+       <tr>
+           <td align="right">请再次输入密码：</td>
+           <td><input type="text"name="" /></td>
+       </tr>
+       <tr>
+           <td align="right">性别：</td>
+           <td><input type="radio"name="xb" checked="checked"/>男
+               <input type="radio"name="xb" />女
+           </td>
+       </tr>
+       <tr>
+           <td align="right">兴趣爱好：</td>
+           <td>
+               <input type="checkbox"name="cx"/>游泳
+               <input type="checkbox"name="cx"/>爬山
+               <input type="checkbox"name="cx"/>看书
+               <input type="checkbox"name="cx"/>思考
+           </td>
+       </tr>
+       <tr>
+           <td align="right">生日：</td>
+           <td>
+               <select name="yyyy" id="yyyy" onchange="selectShow()" ></select>年
+               <select  name="mm" id="mm" onchange="selectShow()"></select>月
+               <select name="dd" id="dd" ></select>日
+           </td>
+       </tr>
+       <tr>
+           <td align="right">头像：</td>
+           <td ><img src="image/批注 2019-04-10 235720.jpg">
+               <select>
+           </select></td>
+       </tr>
+   </table>
+</body>
+</html>
