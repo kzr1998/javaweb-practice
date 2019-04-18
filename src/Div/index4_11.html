@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style type="text/css">
+        ul{
+            list-style-type:none;
+            margin:0;
+            padding:0;
+        }
+        li{margin:0;padding:0;}
+        ul.container{
+            width:789px;
+            border:1px dashed gray;
+            padding-left:21px;
+            padding-bottom:21px;
+        }
+        ul.container:after{
+            display:block;
+            content:".";
+            clear:both;
+            visibility:hidden;
+            height:0;
+        }
+
+        ul li{
+            width:240px;
+            height:160px;
+            margin:21px 21px 0  0;
+            float:left;
+            border:1px solid gray;
+            font-size: 18px;
+        }
+
+        div.image{
+            width:240px;
+            height:135px;
+            background-color:yellow;
+            background-origin:content-box;
+
+        }
+
+        /*设置背景图片*/
+        div.one{
+            background-image:url(http://climg.mukewang.com/590fe9770001e63102400135.jpg);
+
+        }
+        div.two{
+            background-image:url(http://climg.mukewang.com/590fe97d00011bda02400135.jpg);
+
+        }
+        div.three{
+            background-image:url(http://climg.mukewang.com/590fe982000150ba02400135.jpg);
+
+        }
+
+
+    </style>
+
+</head>
+<body>
+<!-- 此处写代码 -->
+
+<ul class="container">
+    <li>
+        <div class="image one"></div>
+        <div >欢迎来到慕课网学习新知识！</div>
+    </li>
+    <li>
+        <div class="image two" ></div>
+        <div >欢迎来到慕课网学习新知识！</div>
+    </li>
+    <li>
+        <div class="image three"></div>
+        <div >欢迎来到慕课网学习新知识！</div>
+    </li>
+    <li>
+        <div class="image one" ></div>
+        <div >欢迎来到慕课网学习新知识！</div>
+    </li>
+    <li>
+        <div class="image two" ></div>
+        <div>欢迎来到慕课网学习新知识！</div>
+    </li>
+    <li>
+        <div class="image three"></div>
+        <div >欢迎来到慕课网学习新知识！</div>
+    </li>
+</ul>
+
+</body>
+</html>
