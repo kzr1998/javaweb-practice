@@ -18,4 +18,9 @@ input[type="text"]{
     width: 145px;
     text-align: right;
     background-color: white;
+    box-sizing: border-box;
+}
+input[type="button"]:hover{
+    background-color:#abcdef;
+    border: 1px solid;
 }

@@ -1,0 +1,43 @@
+.div1{
+    width: 100%;
+    height: 1360px;
+    border: 1px red solid;
+    font-family: Microsoft YaHei UI;
+}
+
+.header{
+    width: 100%;
+    height: 768px;
+    border: 1px red solid;
+}
+.top{
+    width: 100%;
+    height: 68px;
+    background-color:#07cbc9;
+    border: 1px red solid;
+}
+.img{
+    background: url("image/logo.png");
+    background-repeat: no-repeat;
+    position:relative;
+    width: 260px;
+    height: 48px;
+    left: 100px;
+    top: 15%;
+}
+.content{
+     background: url("image/banner3.jpg");
+    height: 700px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.middle{
+    width: 100%;
+    height: 899px;
+    border: 1px red solid;
+}
+.bottom{
+    width: 100%;
+    height: 99px;
+    border: 1px red solid;
+}
