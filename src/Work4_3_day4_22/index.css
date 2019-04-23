@@ -1,20 +1,24 @@
 .div1{
     width: 100%;
-    height: 1360px;
-    border: 1px red solid;
+    height: 2500px;
+    border: 1px gray solid;
     font-family: Microsoft YaHei UI;
+    padding: 0px;
+    margin: 0px;
 }
 
 .header{
     width: 100%;
     height: 868px;
-    border: 1px red solid;
+    border: 1px gray solid;
+    clear: both;
+
 }
 .top{
     width: 100%;
     height: 68px;
     background-color:#07cbc9;
-    border: 1px red solid;
+    bborder: 1px gray solid;
 }
 .img{
     background: url("image/logo.png");
@@ -30,6 +34,7 @@
     height: 800px;
     background-repeat: no-repeat;
     background-position: center;
+    clear: both;
 }
 .input>input{
     display: block;
@@ -61,17 +66,81 @@ input:hover{
 }
 .middle{
     width: 100%;
-    height: 899px;
-    border: 1px red solid;
+    height: 1300px;
+    border: 1px gray solid;
+    clear: both;
+
 }
 .top1{
     background: url("image/bb3.jpg");
     background-repeat: no-repeat;
     background-position: center;
     height: 435px;
+    padding: 0;
+    margin: 0;
 }
-.bottom{
+.middle>h1{
+    text-align: center;
+    top: 0;
+}
+.top1>h1{
+    left: 200px;
+    position: absolute;
+}
+.a1{
+    width: 360px;
+    height: 240px;
+    opacity: 0.4;
+    border: white 1px solid;
+    position: relative;
+    left: 20%;
+    top:20%;
+}
+.a1>button{
+    margin-left: 10px;
+    background-color: black;
+    color: white;
+}
+.a1>button:hover{
+    background-color:white;
+    color: black;
+    font-size: 16px;
+}
+.b1{
+    width: 200px;
+    height: 120px;
+    border: #07cbc9 1px solid;
+    position: relative;
+    left: 68%;
+    bottom:200px;
+}
+.b2{
+    width: 200px;
+    height: 120px;
+    border: #07cbc9 1px solid;
+    position: relative;
+    left: 68%;
+    bottom:165px;
+}
+h1{
+    padding: 0;
+    margin: 0;
+}
+.center{
     width: 100%;
-    height: 99px;
-    border: 1px red solid;
+    height: 815px;
+    border: #07cbc9 1px solid;
+}
+.d1{
+    background: url("image/b1.jpg");
+    width: 396px;
+    height: 396px;
+    position:relative;
+    top:0;
+    left:0;
+}
+.d2{
+    width: 396px;
+    height: 396px;
+    background: #07cbc9;
 }
