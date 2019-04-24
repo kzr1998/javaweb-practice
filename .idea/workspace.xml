@@ -2,9 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b331503-1fff-4486-a417-e4a7edaa5180" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Work4_3_day_copy/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Work4_3_day_copy/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Work4_3_day4_22/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Work4_3_day4_22/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Work4_3_day4_22/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Work4_3_day4_22/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Work4_3_day4_22/image/03-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Work4_3_day_copy/image/03-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Work4_3_day4_22/image/03-02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Work4_3_day_copy/image/03-02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Work4_3_day4_22/image/03-03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Work4_3_day_copy/image/03-03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Work4_3_day4_22/image/03-04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Work4_3_day_copy/image/03-04.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Work4_3_day4_22/image/03-05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Work4_3_day_copy/image/03-05.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Work4_3_day4_22/image/03-06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Work4_3_day_copy/image/03-06.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Work4_3_day4_22/image/b1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Work4_3_day_copy/image/b1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Work4_3_day4_22/image/b2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Work4_3_day_copy/image/b2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Work4_3_day4_22/image/b3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Work4_3_day_copy/image/b3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Work4_3_day4_22/image/b4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Work4_3_day_copy/image/b4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Work4_3_day4_22/image/banner3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Work4_3_day_copy/image/banner3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Work4_3_day4_22/image/bb3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Work4_3_day_copy/image/bb3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Work4_3_day4_22/image/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Work4_3_day_copy/image/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Work4_3_day4_22/image/完整大图.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Work4_3_day_copy/image/完整大图.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Work4_3_day4_22/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Work4_3_day4_22/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Work4_3_day4_22/index.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,37 +33,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Work4_3_day4_22/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Work4_3_day4_22/index.css">
+        <entry file="file://$PROJECT_DIR$/src/Work4_3_day_copy/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1869">
-              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+            <state relative-caret-position="-1125">
+              <caret line="112" column="11" lean-forward="true" selection-start-line="112" selection-start-column="11" selection-end-line="112" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Work4_3_day4_22/index.html">
+        <entry file="file://$PROJECT_DIR$/src/Work4_3_day_copy/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+            <state relative-caret-position="1071">
+              <caret line="93" column="95" lean-forward="true" selection-start-line="93" selection-start-column="95" selection-end-line="93" selection-end-column="95" />
               <folding>
-                <element signature="n#style#0;n#input#2;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#3;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#0;n#div#2;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#4979#4985#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -120,8 +122,8 @@
         <option value="$PROJECT_DIR$/src/jisuanqi4_17/index.js" />
         <option value="$PROJECT_DIR$/src/jisuanqi4_17/index.css" />
         <option value="$PROJECT_DIR$/src/Work4_3_day4_22/index.js" />
-        <option value="$PROJECT_DIR$/src/Work4_3_day4_22/index.html" />
         <option value="$PROJECT_DIR$/src/Work4_3_day4_22/index.css" />
+        <option value="$PROJECT_DIR$/src/Work4_3_day4_22/index.html" />
       </list>
     </option>
   </component>
@@ -135,8 +137,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
+    <option name="x" value="1014" />
+    <option name="width" value="913" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -147,6 +149,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,21 +167,19 @@
               <item name="javaweb-practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaweb-practice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Work4_3_day4_22" type="462c0819:PsiDirectoryNode" />
+              <item name="Work4_3_day_copy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaweb-practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaweb-practice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Work4_3_day4_22" type="462c0819:PsiDirectoryNode" />
+              <item name="Work4_3_day_copy" type="462c0819:PsiDirectoryNode" />
               <item name="image" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -371,15 +373,16 @@
       <workItem from="1555726411409" duration="13235000" />
       <workItem from="1555848472916" duration="13040000" />
       <workItem from="1555949707760" duration="10451000" />
-      <workItem from="1556032072812" duration="8356000" />
+      <workItem from="1556032072812" duration="9162000" />
+      <workItem from="1556124767478" duration="3988000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="301476000" />
+    <option name="totallyTimeSpent" value="306270000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="1" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -395,7 +398,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27571115" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28008753" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -415,29 +418,29 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3085339" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32603937" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27680525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40262583" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Capture Tool" order="5" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32603937" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info id="Favorites" order="6" side_tool="true" />
     </layout-to-restore>
@@ -696,41 +699,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Work4_3_day4_22/image/完整大图.png">
+    <entry file="file://$PROJECT_DIR$/src/Work4_3_day_copy/image/完整大图.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Work4_3_day4_22/image/bb3.jpg">
+    <entry file="file://$PROJECT_DIR$/src/Work4_3_day_copy/image/bb3.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Work4_3_day4_22/image/b2.jpg">
+    <entry file="file://$PROJECT_DIR$/src/Work4_3_day_copy/image/b2.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Work4_3_day4_22/image/03-06.jpg">
+    <entry file="file://$PROJECT_DIR$/src/Work4_3_day_copy/image/03-06.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Work4_3_day4_22/image/03-05.jpg">
+    <entry file="file://$PROJECT_DIR$/src/Work4_3_day_copy/image/03-05.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Work4_3_day4_22/image/03-03.jpg">
+    <entry file="file://$PROJECT_DIR$/src/Work4_3_day_copy/image/03-03.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Work4_3_day4_22/image/03-02.jpg">
+    <entry file="file://$PROJECT_DIR$/src/Work4_3_day_copy/image/03-02.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Work4_3_day4_22/image/03-01.jpg">
+    <entry file="file://$PROJECT_DIR$/src/Work4_3_day_copy/image/03-01.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jisuanqi4_17/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="56" column="50" selection-start-line="56" selection-start-column="50" selection-end-line="56" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Work4_3_day4_22/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -741,31 +737,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Work4_3_day4_22/image/03-04.jpg">
+    <entry file="file://$PROJECT_DIR$/src/Work4_3_day_copy/image/03-04.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Work4_3_day4_22/image/b1.jpg">
+    <entry file="file://$PROJECT_DIR$/src/Work4_3_day_copy/image/b1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Work4_3_day4_22/index.css">
+    <entry file="file://$PROJECT_DIR$/src/Work4_3_day4_22/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1869">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        <state relative-caret-position="210">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Work4_3_day4_22/index.html">
+    <entry file="file://$PROJECT_DIR$/src/Work4_3_day_copy/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        <state relative-caret-position="-1125">
+          <caret line="112" column="11" lean-forward="true" selection-start-line="112" selection-start-column="11" selection-end-line="112" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Work4_3_day_copy/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="93" column="95" lean-forward="true" selection-start-line="93" selection-start-column="95" selection-end-line="93" selection-end-column="95" />
           <folding>
-            <element signature="n#style#0;n#input#2;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#3;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#div#2;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#4979#4985#0" expanded="true" />
           </folding>
         </state>
       </provider>
