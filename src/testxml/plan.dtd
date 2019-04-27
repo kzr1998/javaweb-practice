@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!ELEMENT plan (course)>
+<!ELEMENT course (course-name,class-hour,exam-form)>
+<!ELEMENT course-name (course-name)>
+        <!ELEMENT class-hour (class-hour)>
+        <!ELEMENT exam-form (exam-form)>

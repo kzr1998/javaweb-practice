@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plan SYSTEM "plan.dtd">
+<!-- 课程成绩-->
+<course>
+    <course-name >
+    <className>大学英语</className>
+    <className>高等数学</className>
+    <className>计算机应用基础</className>
+    </course-name>
+<class-hour>
+    <hour>36</hour>
+    <hour>70</hour>
+    <hour>108</hour>
+</class-hour>
+    <exam-form>
+        <test>考试</test>
+        <test>考试</test>
+        <test>上机考试</test>
+    </exam-form>
+</course>
+
+
+
