@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plan SYSTEM "plan.dtd">
+<plan-schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="plan.xsd">
 <!-- 课程成绩-->
 <plan>
     <course>
-        <course-name >
+        <course-name no="3009">
         <className>大学英语</className>
     </course-name>
         <class-hour>
@@ -18,7 +18,7 @@
             <className>高等数学</className>
         </course-name>
         <class-hour>
-         <hour>36</hour>
+         <hour>70</hour>
         </class-hour>
         <exam-form>
             <test>考试</test>
@@ -29,7 +29,7 @@
             <className>计算机应用基础</className>
         </course-name>
         <class-hour>
-        <hour>36</hour>
+        <hour>108</hour>
         </class-hour>
         <exam-form>
          <test>上机考试</test>

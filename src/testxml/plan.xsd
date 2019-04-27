@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema">
+    <element name="plan">
+        <!-- compleexType标签含义是复杂节点，包含子节点时必须使用这个标签 -->
+        <complexType>
+            <sequence>
+                <element name="course" minOccurs="1" maxOccurs="100">
+                    <complexType>
+                        <sequence>
+                            <element name="course-name" type="string"></element>
+                            <element name="course-hour" >
+                                <simpleType>
+                                    <restriction base="integer">
+                                       <minExclusive value="1"></minExclusive>
+                                    <maxExclusive value="100"></maxExclusive>
+                                    </restriction>
+                                </simpleType>
+                            </element>
+                            <element name="exam-form" type="string"></element>
+                        </sequence>
+                    </complexType>
+
+                </element>
+            </sequence>
+        </complexType>
+    </element>
+</schema>
